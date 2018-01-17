@@ -1,0 +1,53 @@
+{ 
+	"products": [
+		{
+		    "id": 101,
+		    "title": "Apple iPhone 5S 16Gb",
+		    "description": "Apple iPhone 5S 16Gb Смартфон, iOS 7 Экран 4', разрешение 1136x640 Камера 8 МП, автофокус, F/2.2  Память 16 Гб, без слота для карт памяти 3G, 4G LTE, Wi-Fi, Bluetooth, GPS, ГЛОНАСС",
+		    "url": "https://mdata.yandex.net/i?path=b0910230234_img_id2130334858748450706.jpg&size=5",
+		    "price": 16555.44
+	 	},
+	 	{
+		    "id": 102,
+		    "title": "Apple iPhone 7 32Gb",
+		    "description": "Apple iPhone 7 32Gb Смартфон, iOS 10 Экран 4.7', разрешение 1334x750 Камера 12 МП, автофокус, F/1.8 Память 32 Гб, без слота для карт памяти",
+		    "url": "https://mdata.yandex.net/i?path=b0909190541_img_id421183606100709995.jpeg&size=5",
+		    "price": 34335.44
+	 	},
+	 	{
+		    "id": 103,
+		    "title": "Xiaomi Redmi 4 Prime",
+		    "description": "Xiaomi Redmi 4 Prime Смартфон, Android 6.0 Поддержка двух SIM-карт Экран 5', разрешение 1920x 1080 Камера 13 МП, автофокус, F/2.2",
+		    "url": "https://mdata.yandex.net/i?path=b1212235556_img_id8562898701803224435.jpeg&size=5",
+		    "price": 3455.44
+	 	},
+	 	{
+		    "id": 104,
+		    "title": "Samsung Galaxy A5 (2017)",
+		    "description": "Samsung Galaxy A5 (2017) SM-A520F Смартфон на платформе Android Поддержка двух SIM-карт Экран 5.2', разрешение 1920x1080 Камера 16 МП, автофокус, F/1.9",
+		    "url": "https://mdata.yandex.net/i?path=b0110231455_img_id3002499005923416015.jpeg&size=5	",
+		    "price": 14445.44
+	 	},
+	 	{
+		    "id": 105,
+		    "title": "Meizu M3 Note 32Gb",
+		    "description": "Meizu M3 Note 32Gb Смартфон, Android 5.1 Поддержка двух SIM-карт Экран 5.5', разрешение 1920x1080 Камера 13 МП, автофокус, F/2.2",
+		    "url": "https://mdata.yandex.net/i?path=b0412204036_img_id8001944525667652592.jpeg&size=5",
+		    "price": 20000.0
+	 	},
+	 	{
+		    "id": 106,
+		    "title": "Huawei P9 Lite",
+		    "description": "Huawei P9 Lite Смартфон, Android 6.0 Поддержка двух SIM-карт Экран 5.2', разрешение 1920x1080 Камера 13 МП, автофокус",
+		    "url": "https://mdata.yandex.net/i?path=b0511175441_img_id8063985976867472920.jpeg&size=5",
+		    "price": 30045.44
+	 	},
+	 	{
+		    "id": 107,
+		    "title": "Apple iPhone 7 Plus 32Gb",
+		    "description": "Apple iPhone 7 Plus 32Gb Смартфон, iOS 11 Экран 5.5'. Камера 12 МП, автофокус, F/1.8 Память 32 Гб, без слота для карт памяти",
+		    "url": "",
+		    "price": 34335.44
+	 	}	
+	]
+}
